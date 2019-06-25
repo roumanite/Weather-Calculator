@@ -1,0 +1,6 @@
+<map id="nodeBST::getSearch" name="nodeBST::getSearch">
+<area shape="rect" id="node2" href="$class_weather_calc.html#abc0bfc39128fc607ba748cdcf7a02473" title="Execute option 1 : calculate and show average wind speed and average temperature for a specified mont..." alt="" coords="196,5,343,32"/>
+<area shape="rect" id="node3" href="$class_weather_calc.html#a67c1eff22810c48ef67ff55ccbb6a59c" title="Execute option 2 : calculate and show average wind speed and average temperature for each month of a ..." alt="" coords="196,56,343,83"/>
+<area shape="rect" id="node4" href="$class_weather_calc.html#aa89c732e09c854cd8bdf711a0d6658d8" title="Execute option 3 : calculate and show total solar radiation in kWh/m^2 for each month of a specified ..." alt="" coords="196,107,343,133"/>
+<area shape="rect" id="node5" href="$class_weather_calc.html#a9da6d96ab5a34a64a26a182f005430b2" title="Execute option 4 : calculate average wind speed, average temperature and total solar radiation in kWh..." alt="" coords="196,157,343,184"/>
+</map>

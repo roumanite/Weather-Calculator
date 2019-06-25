@@ -1,0 +1,6 @@
+<map id="Time::setHour" name="Time::setHour">
+<area shape="rect" id="node2" href="$class_time.html#ad41532fa9dca778133707905c27eddc9" title="Specific Constructor. " alt="" coords="165,5,251,32"/>
+<area shape="rect" id="node3" href="$class_time.html#a53b0a58d4ab9f3ce94ce3f66a52b05f5" title="Mutator of hour and minute variables. " alt="" coords="156,56,260,83"/>
+<area shape="rect" id="node5" href="$_time_8h.html#a0a9048cc99eeb948e0f0399ca3a6f4e3" title="operator\&gt;\&gt;" alt="" coords="165,107,251,133"/>
+<area shape="rect" id="node4" href="$_weather_8h.html#aef9ce44d53efe823f4e3bc133763efeb" title="operator\&gt;\&gt;" alt="" coords="308,56,393,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Vector::getSize" name="Vector::getSize">
+<area shape="rect" id="node2" href="$class_weather_calc.html#a51b257110e4c7f2508cb7695e20cee01" title="Execute option 5 : Show times of the highest solar radiation of a Date given. " alt="" coords="187,5,333,32"/>
+<area shape="rect" id="node3" href="$class_weather_calc.html#a6fae3c69b8ef5292a34020708b7b6ea2" title="Get count of objects that have solar radiation more than 100 W/m^2. " alt="" coords="169,56,351,83"/>
+<area shape="rect" id="node4" href="$class_weather_calc.html#a1b7a98be389c867989c8878afd1fe8f1" title="Calculate average wind speed. " alt="" coords="167,107,353,133"/>
+<area shape="rect" id="node5" href="$class_weather_calc.html#a2fd2c3b42037f0d7a3b94f0a26130acf" title="Calculate average temperature. " alt="" coords="169,157,351,184"/>
+<area shape="rect" id="node6" href="$class_weather_calc.html#abad2563ce1a40aec9c784bc6eb22b2b3" title="Calculate total solar radiation. " alt="" coords="165,208,355,235"/>
+<area shape="rect" id="node7" href="$class_weather_calc.html#aba7b693646946a6a36b6f06c4808a262" title="Convenient function for any user to put in his or her program so that there is no worries in the orde..." alt="" coords="199,259,321,285"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="403,259,453,285"/>
+</map>
